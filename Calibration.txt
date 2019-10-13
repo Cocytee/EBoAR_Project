@@ -1,0 +1,9 @@
+coefR	12
+coefG	12
+coefB	12
+bias	1
+density	51
+order	3
+spray	2
+match	80
+t_OFF	0
